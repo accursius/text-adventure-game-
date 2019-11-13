@@ -1,0 +1,7 @@
+C:\Users\Ashton\source\repos\text adventure game par four- inventory\text adventure game par four- inventory\bin\Debug\text adventure game par four- inventory.exe.config
+C:\Users\Ashton\source\repos\text adventure game par four- inventory\text adventure game par four- inventory\bin\Debug\text adventure game par four- inventory.exe
+C:\Users\Ashton\source\repos\text adventure game par four- inventory\text adventure game par four- inventory\bin\Debug\text adventure game par four- inventory.pdb
+C:\Users\Ashton\source\repos\text adventure game par four- inventory\text adventure game par four- inventory\obj\Debug\text adventure game par four- inventory.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\text adventure game par four- inventory\text adventure game par four- inventory\obj\Debug\text adventure game par four- inventory.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\text adventure game par four- inventory\text adventure game par four- inventory\obj\Debug\text adventure game par four- inventory.exe
+C:\Users\Ashton\source\repos\text adventure game par four- inventory\text adventure game par four- inventory\obj\Debug\text adventure game par four- inventory.pdb
